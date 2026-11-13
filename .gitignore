@@ -1,0 +1,8 @@
+.env
+accounts/multi_account.json
+analytics/analytics.db
+log/
+__pycache__/
+*.pyc
+.DS_Store
+.vscode/

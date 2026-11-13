@@ -1,0 +1,17 @@
+{
+  "timestamp": "20260710_161230",
+  "project": "Hello from testing account. This is my 1st post.",
+  "tone": "casual",
+  "model": "llama-3.3-70b-versatile",
+  "post": {
+    "hook": "Excited to join the LinkedIn community!",
+    "body": "Hello from my testing account! I'm thrilled to share my first post with you all. I'm looking forward to connecting with like-minded professionals and learning from their experiences.",
+    "cta": "Let's connect and grow together!",
+    "hashtags": [
+      "#LinkedInNewbie",
+      "#MarketingExpert",
+      "#ProfessionalNetworking"
+    ],
+    "full_post": "Excited to join the LinkedIn community! Hello from my testing account! I'm thrilled to share my first post with you all. I'm looking forward to connecting with like-minded professionals and learning from their experiences. Let's connect and grow together! #LinkedInNewbie #MarketingExpert #ProfessionalNetworking"
+  }
+}

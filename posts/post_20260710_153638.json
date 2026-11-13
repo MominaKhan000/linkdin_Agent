@@ -1,0 +1,17 @@
+{
+  "timestamp": "20260710_153638",
+  "project": "Hello!",
+  "tone": "casual",
+  "model": "llama-3.3-70b-versatile",
+  "post": {
+    "hook": "Let's boost your online presence!",
+    "body": "As a LinkedIn marketing expert, I help professionals and businesses build a strong brand and increase their visibility on the platform. With a solid strategy, you can establish yourself as a thought leader and attract new opportunities.",
+    "cta": "Let's connect and grow your professional network",
+    "hashtags": [
+      "#LinkedInMarketing",
+      "#PersonalBranding",
+      "#CareerGrowth"
+    ],
+    "full_post": "Let's boost your online presence! As a LinkedIn marketing expert, I help professionals and businesses build a strong brand and increase their visibility on the platform. With a solid strategy, you can establish yourself as a thought leader and attract new opportunities. Let's connect and grow your professional network #LinkedInMarketing #PersonalBranding #CareerGrowth"
+  }
+}

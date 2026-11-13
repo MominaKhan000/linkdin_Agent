@@ -1,0 +1,17 @@
+{
+  "timestamp": "20260710_163211",
+  "project": "2nd post keep working",
+  "tone": "casual",
+  "model": "llama-3.3-70b-versatile",
+  "post": {
+    "hook": "Let's keep the momentum going!",
+    "body": "We're making progress on our project and I'm excited to see it come together. Our team has been working hard to ensure its success, and I'm grateful for their dedication. What projects are you working on and how can we support each other?",
+    "cta": "Share your updates in the comments below",
+    "hashtags": [
+      "#marketing",
+      "#projectmanagement",
+      "#teamwork"
+    ],
+    "full_post": "Let's keep the momentum going! We're making progress on our project and I'm excited to see it come together. Our team has been working hard to ensure its success, and I'm grateful for their dedication. What projects are you working on and how can we support each other? Share your updates in the comments below #marketing #projectmanagement #teamwork"
+  }
+}

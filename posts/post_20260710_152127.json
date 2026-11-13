@@ -1,0 +1,17 @@
+{
+  "timestamp": "20260710_152127",
+  "project": "Hello!",
+  "tone": "casual",
+  "model": "llama-3.3-70b-versatile",
+  "post": {
+    "hook": "Let's boost your online presence!",
+    "body": "As a LinkedIn marketing expert, I help professionals and businesses establish a strong online presence and grow their network. Whether you're looking to increase brand awareness, generate leads, or drive website traffic, I've got you covered.",
+    "cta": "Let's connect and discuss your marketing goals!",
+    "hashtags": [
+      "#LinkedInMarketing",
+      "#DigitalMarketing",
+      "#OnlinePresence"
+    ],
+    "full_post": "Let's boost your online presence! As a LinkedIn marketing expert, I help professionals and businesses establish a strong online presence and grow their network. Whether you're looking to increase brand awareness, generate leads, or drive website traffic, I've got you covered. Let's connect and discuss your marketing goals! #LinkedInMarketing #DigitalMarketing #OnlinePresence"
+  }
+}

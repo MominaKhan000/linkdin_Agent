@@ -1,0 +1,17 @@
+{
+  "timestamp": "20260710_162055",
+  "project": "Hello! This is my first post from my testing account.",
+  "tone": "casual",
+  "model": "llama-3.3-70b-versatile",
+  "post": {
+    "hook": "Excited to start sharing my marketing expertise with you all!",
+    "body": "As a LinkedIn marketing expert, I'm looking forward to connecting with like-minded professionals and sharing valuable insights to help you grow your online presence. Let's build a community that thrives on knowledge sharing and collaboration.",
+    "cta": "Let's connect and start a conversation!",
+    "hashtags": [
+      "#LinkedInMarketing",
+      "#DigitalMarketing",
+      "#ProfessionalGrowth"
+    ],
+    "full_post": "Excited to start sharing my marketing expertise with you all! As a LinkedIn marketing expert, I'm looking forward to connecting with like-minded professionals and sharing valuable insights to help you grow your online presence. Let's build a community that thrives on knowledge sharing and collaboration. Let's connect and start a conversation! #LinkedInMarketing #DigitalMarketing #ProfessionalGrowth"
+  }
+}

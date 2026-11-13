@@ -1,0 +1,17 @@
+{
+  "timestamp": "20260710_160558",
+  "project": "Hello!",
+  "tone": "casual",
+  "model": "llama-3.3-70b-versatile",
+  "post": {
+    "hook": "Ready to boost your online presence?",
+    "body": "As a LinkedIn marketing expert, I help professionals and businesses grow their network and increase engagement. Whether you're looking to establish your personal brand or promote your company, I've got you covered. Let's work together to create a strategy that drives real results.",
+    "cta": "Let's connect and grow your online presence today!",
+    "hashtags": [
+      "#LinkedInMarketing",
+      "#PersonalBranding",
+      "#DigitalGrowth"
+    ],
+    "full_post": "Ready to boost your online presence? As a LinkedIn marketing expert, I help professionals and businesses grow their network and increase engagement. Whether you're looking to establish your personal brand or promote your company, I've got you covered. Let's work together to create a strategy that drives real results. Let's connect and grow your online presence today! #LinkedInMarketing #PersonalBranding #DigitalGrowth"
+  }
+}

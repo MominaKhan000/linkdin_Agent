@@ -1,0 +1,17 @@
+{
+  "timestamp": "20260710_141859",
+  "project": "Hello!",
+  "tone": "casual",
+  "model": "llama-3.3-70b-versatile",
+  "post": {
+    "hook": "Let's boost your online presence!",
+    "body": "As a LinkedIn marketing expert, I help professionals and businesses establish a strong online presence and grow their network. From optimizing profiles to creating engaging content, I've got you covered.",
+    "cta": "DM me to get started",
+    "hashtags": [
+      "#LinkedInMarketing",
+      "#OnlinePresence",
+      "#ProfessionalGrowth"
+    ],
+    "full_post": "Let's boost your online presence! As a LinkedIn marketing expert, I help professionals and businesses establish a strong online presence and grow their network. From optimizing profiles to creating engaging content, I've got you covered. DM me to get started #LinkedInMarketing #OnlinePresence #ProfessionalGrowth"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "timestamp": "20260710_093828",
+  "project": "project",
+  "tone": "professional",
+  "model": "gpt-oss:120b-cloud",
+  "engagement_score": 87,
+  "post": {
+    "hook": "What if your team could turn raw data into actionable insights in seconds, not hours?",
+    "body": "At XYZ Corp, we just launched Project Aurora—a AI‑powered analytics suite that automates data cleaning, visualizes trends, and suggests next steps—all within a single dashboard. Early adopters report a 40% reduction in reporting time and smarter decision‑making. The secret? Leveraging pretrained models that learn from your own datasets, while keeping data secure behind enterprise‑grade encryption. We're excited to see how this can accelerate growth for forward‑thinking teams.",
+    "cta": "Are you ready to let AI supercharge your reporting, or curious about a quick demo?",
+    "hashtags": [
+      "#AIAnalytics",
+      "#DataScience",
+      "#BusinessIntelligence",
+      "#DigitalTransformation",
+      "#ProductLaunch"
+    ],
+    "full_post": "What if your team could turn raw data into actionable insights in seconds, not hours?\n\nAt XYZ Corp, we just launched Project Aurora—a AI‑powered analytics suite that automates data cleaning, visualizes trends, and suggests next steps—all within a single dashboard. Early adopters report a 40% reduction in reporting time and smarter decision‑making. The secret? Leveraging pretrained models that learn from your own datasets, while keeping data secure behind enterprise‑grade encryption. We're excited to see how this can accelerate growth for forward‑thinking teams.\n\nAre you ready to let AI supercharge your reporting, or curious about a quick demo?\n#AIAnalytics #DataScience #BusinessIntelligence #DigitalTransformation #ProductLaunch",
+    "engagement_score": 87,
+    "best_time_to_post": "Tuesday 8–10 am EST",
+    "generated_by": "gpt-oss:120b-cloud",
+    "timestamp": "2026-07-10T09:38:28.189714",
+    "optimized": true
+  }
+}
