@@ -32,6 +32,3 @@ flowchart TD
 2. Install the dependencies used by the scripts (for example, `pip install playwright` followed by `playwright install`).
 3. Run `run_visual.bat` on Windows, or `python visual_ai_agent.py` on other systems.
 
-## Security
-
-`linkedin_storage_state.json` contains your LinkedIn login cookies. Do not commit it to a public repository. Add it to `.gitignore`.
